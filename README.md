@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sparshmathur
-- 👀 I’m interested in learning everything ("If its possible")
-- 🌱 I’m currently learning Java libraries
+- 👀 I’m interested in learning everything!!
+- 🌱 I’m currently exploring and implementing Java
 - 📫 Let's get connected: sparshmathur14@gmail.com
 
 <!---
