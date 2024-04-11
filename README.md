@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sparshmathur
 - 👀 I’m interested in learning everything, as learning or exploring something new motivates me 
-- 🌱 I’m currently learning and implementing Core Java
+- 🌱 I’m currently learning and implementing Data Science
 - 📫 Let's get connected: sparshmathur14@gmail.com
 
 <!---
